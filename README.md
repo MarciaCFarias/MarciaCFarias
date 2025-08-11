@@ -1,5 +1,6 @@
 # MarciaCristianeCoelhodeFarias
 **Consultora de Negócios e Processos | Transformação Digital |Hiperautomação - RPA e IA.**
+
 Sou uma profissional com mais de 15 anos de experiência em consultoria de sistemas e negócios, atuando em projetos estratégicos de transformação digital e automação em empresas no Brasil, Argentina, Paraguai e México.
 
 🎓 **Certificações**:
