@@ -1,14 +1,14 @@
 # MarciaCristianeCoelhodeFarias
-Consultora de Negócios e Processos | Transformação Digital |Hiperautomação - RPA e IA.
+**Consultora de Negócios e Processos | Transformação Digital |Hiperautomação - RPA e IA.**
 Sou uma profissional com mais de 15 anos de experiência em consultoria de sistemas e negócios, atuando em projetos estratégicos de transformação digital e automação em empresas no Brasil, Argentina, Paraguai e México.
 
-🎓 Certificações:
+🎓 **Certificações**:
 - Green Belt Six Sigma
 - Scrum Master Professional Certificate
 - Scrum Foundation Professional Certificate
 - MBA em Gestão de Pessoas
 
-🚀 Experiência:
+🚀 **Experiências**:
 - **TOTVS S.A. – Coordenadora de Serviços**  
   Liderança de equipes, gestão de carreiras e desenvolvimento de talentos na área de serviços.
 
@@ -18,7 +18,7 @@ Sou uma profissional com mais de 15 anos de experiência em consultoria de siste
 - **Analista de Requisitos**  
   Mapeamento e implementação de RPA (Robotic Process Automation), hiperautomação e transformação digital, com foco em eficiência operacional.
 
-🛠️ Especialidades:
+🛠️ **Especialidades**:
 - Implantação de ERP
 - Treinamentos e capacitação
 - Análise e redesenho de processos
