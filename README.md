@@ -28,6 +28,15 @@ Sou uma profissional com mais de 15 anos de experiência em consultoria de siste
 
 📍 Projetos realizados em: Brasil 🇧🇷 | Argentina 🇦🇷 | Paraguai 🇵🇾 | México 🇲🇽
 
+📌 Repositório - Analista de Processos
+Este repositório tem como objetivo centralizar conhecimentos, projetos e documentações relacionadas à atuação como Analista de Processos.
+Aqui você encontrará exemplos de análise, otimização e automação de processos, utilizando metodologias e ferramentas relevantes para a área.
+
+📂 Estrutura do Repositório
+📄 README.md → Apresentação do repositório e principais conteúdos.
+📁 processo.md → Modelos de documentação de processos, como fluxos BPMN e diagramas.
+📁 requisitos.md → Requisitos necessários para o projeto.
+
 ---
 
 📫 **Conecte-se comigo**
