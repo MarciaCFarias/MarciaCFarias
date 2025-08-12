@@ -58,6 +58,7 @@ Este repositório tem como objetivo centralizar conhecimentos, projetos e docume
 📫 **Conecte-se comigo**
 --
   - LinkedIn: [linkedin.com/in/mccfarias](https://www.linkedin.com/in/mccfarias/)
+  - E-mail: mccfarias@gmail.com
   - GitHub: [github.com/mccfarias](https://github.com/mccfarias)
   
 "Automatizar é mais do que acelerar tarefas — é transformar processos, agregar valor e propor soluções inteligentes que geram impacto real e sustentável."
