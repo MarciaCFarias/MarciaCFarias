@@ -1,7 +1,16 @@
-# MarciaCristianeCoelhodeFarias
-**Consultora de Negócios e Processos | Transformação Digital |Hiperautomação - RPA e IA.**
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/43f49a98-3b5c-461e-9f94-c4291176ead2" /> # Marcia Cristiane Coelho de Farias
+--
+ **Consultora e Analista de Negócios | Processos - Transformação Digital - Hiperautomação | Especialista em RPA.**
 
-Sou uma profissional com mais de 15 anos de experiência em consultoria de sistemas e negócios, atuando em projetos estratégicos de transformação digital e automação em empresas no Brasil, Argentina, Paraguai e México.
+🎯 Fascinada por transformar processos desestruturados e complexos em soluções eficientes, utilizando tecnologia e metodologias de melhoria contínua para gerar impacto real nos negócios.
+💡 Atuo com consultoria e análise de negócios, mapeamento de processos e levantamento de requisitos. Tenho experiência prática em automações com RPA (UiPath, BotCity, Power Automate, Python) e aplicações de Inteligência Artificial.
+📚 Estou em constante evolução, aprimorando conhecimentos em análise de dados, Business Intelligence, agentes de IA, PowerApps e acompanhando os avanços tecnológicos para entregar soluções cada vez mais inteligentes e inovadoras.
+
+---
+✅ Objetivos do Repositório
+✅ Centralizar conteúdos sobre análise e automação de processos
+✅ Criar um portfólio técnico para demonstrar habilidades na área
+✅ Compartilhar aprendizados práticos com a comunidade
 
 🎓 **Certificações**:
 - Green Belt Six Sigma
