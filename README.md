@@ -1,56 +1,57 @@
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/43f49a98-3b5c-461e-9f94-c4291176ead2" /> # Marcia Cristiane Coelho de Farias
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/43f49a98-3b5c-461e-9f94-c4291176ead2" />  Marcia Cristiane Coelho de Farias
 --
  **Consultora e Analista de Negócios | Processos - Transformação Digital - Hiperautomação | Especialista em RPA.**
 
 🚀 Fascinada por transformar processos desestruturados e complexos em soluções eficientes, utilizando tecnologia e metodologias de melhoria contínua para gerar impacto real nos negócios.
 
-🎯 Atuo com consultoria e análise de negócios, mapeamento de processos e levantamento de requisitos. Tenho experiência prática em automações com RPA (UiPath, BotCity, Power Automate, Python) e aplicações de Inteligência Artificial.
+🎯 Atuo com consultoria e análise de negócios, mapeamento de processos e levantamento de requisitos. 
+  - Tenho experiência prática em implementações de ERPs, automações com RPA (UiPath, BotCity, Power Automate, Python) e aplicações de Inteligência Artificial.
 
 ---
 🛠 Conhecimento Técnicos
 --
-  •RPA: UiPath, BotCity, Power Automate.
+ - RPA: UiPath, BotCity, Power Automate.
   
-  •Sistemas: SAP, TOTVS (Datasul, Protheus, Fluig), Oracle, VBS, 
+ - Sistemas: SAP, TOTVS (Datasul, Protheus, Fluig), Oracle, VBS, 
   
-  •Ferramentas: Power BI, Excel, Google Suit, Bizagi, Draw.IO, Visio, Planner, ClickUp, Trello, Notion, Jira.
+ - Ferramentas: Power BI, Excel, Google Suit, Bizagi, Draw.IO, Visio, Planner, ClickUp, Trello, Notion, Jira.
   
-  •Metodologias: BPMN, Ágil/Scrum, PDCA, 5W2H, Kanban, Kaizen, SixSigma.
+ - Metodologias: BPMN, Ágil/Scrum, PDCA, 5W2H, Kanban, Kaizen, SixSigma.
   
-  •Linguagens: Python, SQL, Delphi, HTML.
+ - Linguagens: Python, SQL, Delphi, HTML.
 
 ---
 🧠 Aprendizado contínuo
 --
 Estou em constante evolução, aprimorando conhecimentos, acompanhando os avanços tecnológicos para entregar soluções cada vez mais inteligentes e inovadoras:
 
-  •🤖 Agentes de IA.
+  🤖 Agentes de IA.
   
-  •📲 PowerApps (criação de aplicativos sem código).
+  📲 PowerApps (criação de aplicativos sem código).
   
-  •📈 Análise de dados, Business Intelligence, PowerApps, KPIs.
+  📈 Análise de dados, Business Intelligence, KPIs.
 
 ---
 📌 Repositório - Analista de Processos
 --
 Este repositório tem como objetivo centralizar conhecimentos, projetos e documentações relacionadas à minha atuação e experiência como Analista de Processos.
 
-  •	✅ Aqui você encontrará exemplos de análise, otimização e automação de processos, utilizando metodologias e ferramentas relevantes para a área.
+  ✅ Aqui você encontrará exemplos de análise, otimização e automação de processos, utilizando metodologias e ferramentas relevantes para a área.
 
-  •	✅ Criar um portfólio técnico para demonstrar habilidades em vários segmentos organizacionais.
+  ✅ Criar um portfólio técnico para demonstrar habilidades em vários segmentos organizacionais.
 
-  •	✅ Compartilhar aprendizados práticos com todos os interessados no assunto.
+  ✅ Compartilhar aprendizados práticos com todos os interessados no assunto.
 
 ---
 📂 Estrutura do Repositório
 --
 📍 Projetos realizados em: Brasil 🇧🇷 | Argentina 🇦🇷 | Paraguai 🇵🇾 | México 🇲🇽
 
-  •	📄 README.md → Apresentação do repositório e principais conteúdos.
+  📄 README.md → Apresentação do repositório e principais conteúdos.
   
-  •	📁 processo.md → Modelos de documentação de processos, como fluxos BPMN e diagramas.
+  📁 processo.md → Modelos de documentação de processos, como fluxos BPMN e diagramas.
   
-  •	📁 requisitos.md → Requisitos necessários para o projeto.
+  📁 requisitos.md → Requisitos necessários para o projeto.
 
 ---
 
