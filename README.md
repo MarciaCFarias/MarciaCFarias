@@ -7,7 +7,7 @@
 🎯 Atuo com consultoria e análise de negócios, mapeamento de processos e levantamento de requisitos. Tenho experiência prática em automações com RPA (UiPath, BotCity, Power Automate, Python) e aplicações de Inteligência Artificial.
 
 ---
-🛠 Habilidades/Conhecimento Técnicos
+🛠 Conhecimento Técnicos
 --
   •RPA: UiPath, BotCity, Power Automate.
   
