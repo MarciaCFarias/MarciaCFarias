@@ -8,7 +8,7 @@
   - Tenho experiência prática em implementações de ERPs, automações com RPA (UiPath, BotCity, Power Automate, Python) e aplicações de Inteligência Artificial.
 
 ---
-🛠 Conhecimento Técnicos
+🛠 Conhecimentos Técnicos
 --
  - RPA: UiPath, BotCity, Power Automate.
   
