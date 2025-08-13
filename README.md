@@ -12,7 +12,7 @@
 --
  - RPA: UiPath, BotCity, Power Automate.
   
- - Sistemas: SAP, TOTVS (Datasul, Protheus, Fluig), Oracle, VBS, 
+ - Sistemas: SAP, TOTVS (Datasul, Protheus, Fluig), Oracle, VBS, ERPs legados.
   
  - Ferramentas: Power BI, Excel, Google Suit, Bizagi, Draw.IO, Visio, Planner, ClickUp, Trello, Notion, Jira.
   
