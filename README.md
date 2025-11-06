@@ -11,6 +11,8 @@
 🛠 Conhecimentos Técnicos
 --
  - RPA: UiPath, BotCity, Power Automate.
+ 
+ - OCR e IA.
   
  - Sistemas: SAP, TOTVS (Datasul, Protheus, Fluig), Oracle, VBS, ERPs legados.
   
@@ -25,7 +27,7 @@
 --
 Estou em constante evolução, aprimorando conhecimentos, acompanhando os avanços tecnológicos para entregar soluções cada vez mais inteligentes e inovadoras:
 
-  🤖 Agentes de IA.
+  🤖 Agentes de IA, IPA - Automação Inteligente de Processos e MCP Model Context Protocol.
   
   📲 PowerApps (criação de aplicativos sem código).
   
