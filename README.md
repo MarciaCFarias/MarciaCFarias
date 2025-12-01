@@ -1,6 +1,6 @@
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/43f49a98-3b5c-461e-9f94-c4291176ead2" />  Marcia Cristiane Coelho de Farias
 --
- **Consultora e Analista de Negócios | Processos - Transformação Digital - Hiperautomação | Especialista em RPA.**
+ **Consultora e Analista de Negócios | Especialista em Processos - Transformação Digital - Hiperautomação | ERP - RPA - IA.**
 
 🚀 Fascinada por transformar processos desestruturados e complexos em soluções eficientes, utilizando tecnologia e metodologias de melhoria contínua para gerar impacto real nos negócios.
 
@@ -14,20 +14,20 @@
  
  - OCR e IA.
   
- - Sistemas: SAP, TOTVS (Datasul, Protheus, Fluig), Oracle, VBS, ERPs legados.
+ - Sistemas/ERPs: SAP, TOTVS (Datasul, Protheus, Fluig), Oracle, VBS, ERPs legados.
   
- - Ferramentas: Power BI, Excel, Google Suit, Bizagi, Draw.IO, Visio, Planner, ClickUp, Trello, Notion, Jira.
+ - Ferramentas: Power BI, Excel, Google Suit, Bizagi, Draw.IO, Visio, Zendesk, Planner, ClickUp, Trello, Notion, Jira.
   
  - Metodologias: BPMN, Ágil/Scrum, PDCA, 5W2H, Kanban, Kaizen, SixSigma.
   
- - Linguagens: Python, SQL, Delphi, HTML.
+ - Linguagens: Python, SQL, Progress, Delphi, HTML.
 
 ---
 🧠 Aprendizado contínuo
 --
 Estou em constante evolução, aprimorando conhecimentos, acompanhando os avanços tecnológicos para entregar soluções cada vez mais inteligentes e inovadoras:
 
-  🤖 Agentes de IA, IPA - Automação Inteligente de Processos e MCP Model Context Protocol.
+  🤖 Agentes de IA, IPA - Automação Inteligente de Processos, MCP Model Context Protocol e Engenharia de Prompts.
   
   📲 PowerApps (criação de aplicativos sem código).
   
